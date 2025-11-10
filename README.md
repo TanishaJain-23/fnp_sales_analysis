@@ -1,2 +1,15 @@
 # fnp_sales_analysis
-This project focuses on analyzing sales performance data from Ferns N Petals (FNP) to uncover business insights and improve decision-making. The objective was to explore sales trends, identify top-performing products, and understand customer purchasing behavior using Excel-based data analysis and visualization techniques.
+Ferns and Petals Sales Analysis
+
+This Excel project analyzes sales data from Ferns and Petals (FNP) to study sales trends, top products, customer behavior, and city-wise performance.
+It includes total revenue, average delivery time, and occasion-based analysis.
+
+Tools Used: Excel, Pivot Tables, Charts, Functions (SUMIFS, COUNTIFS, VLOOKUP).
+
+Key Insights:
+
+Sales peak during festivals and Valentine’s week
+
+Top products and cities drive most revenue
+
+Dashboard helps improve marketing and sales decisions
